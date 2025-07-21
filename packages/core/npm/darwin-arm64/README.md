@@ -1,3 +1,3 @@
-# `napi-pnpm-darwin-arm64`
+# `napi-starter-darwin-arm64`
 
-This is the **aarch64-apple-darwin** binary for `napi-pnpm`
+This is the **aarch64-apple-darwin** binary for `napi-starter`

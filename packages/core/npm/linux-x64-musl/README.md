@@ -1,3 +1,3 @@
-# `napi-pnpm-linux-x64-musl`
+# `napi-starter-linux-x64-musl`
 
-This is the **x86_64-unknown-linux-musl** binary for `napi-pnpm`
+This is the **x86_64-unknown-linux-musl** binary for `napi-starter`

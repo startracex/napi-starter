@@ -1,3 +1,3 @@
-# `napi-pnpm-linux-arm-gnueabihf`
+# `napi-starter-linux-arm-gnueabihf`
 
-This is the **armv7-unknown-linux-gnueabihf** binary for `napi-pnpm`
+This is the **armv7-unknown-linux-gnueabihf** binary for `napi-starter`

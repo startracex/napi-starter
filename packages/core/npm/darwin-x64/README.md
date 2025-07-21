@@ -1,3 +1,3 @@
-# `napi-pnpm-darwin-x64`
+# `napi-starter-darwin-x64`
 
-This is the **x86_64-apple-darwin** binary for `napi-pnpm`
+This is the **x86_64-apple-darwin** binary for `napi-starter`

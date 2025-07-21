@@ -1,2 +1,3 @@
-# napi-pnpm
-Project template for pnpm monorepos using napi-rs
+# napi-starter
+
+Project template for pnpm monorepos using napi-rs.

@@ -1,3 +1,3 @@
-# `napi-pnpm-android-arm-eabi`
+# `napi-starter-android-arm-eabi`
 
-This is the **armv7-linux-androideabi** binary for `napi-pnpm`
+This is the **armv7-linux-androideabi** binary for `napi-starter`

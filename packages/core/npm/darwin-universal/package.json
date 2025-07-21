@@ -1,12 +1,12 @@
 {
-  "name": "napi-pnpm-darwin-universal",
+  "name": "napi-starter-darwin-universal",
   "version": "0.0.0",
   "os": [
     "darwin"
   ],
-  "main": "napi-pnpm.darwin-universal.node",
+  "main": "napi-starter.darwin-universal.node",
   "files": [
-    "napi-pnpm.darwin-universal.node"
+    "napi-starter.darwin-universal.node"
   ],
   "license": "MIT",
   "engines": {

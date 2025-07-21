@@ -1,5 +1,5 @@
 {
-  "name": "napi-pnpm-linux-riscv64-gnu",
+  "name": "napi-starter-linux-riscv64-gnu",
   "version": "0.0.0",
   "os": [
     "linux"
@@ -7,9 +7,9 @@
   "cpu": [
     "riscv64"
   ],
-  "main": "napi-pnpm.linux-riscv64-gnu.node",
+  "main": "napi-starter.linux-riscv64-gnu.node",
   "files": [
-    "napi-pnpm.linux-riscv64-gnu.node"
+    "napi-starter.linux-riscv64-gnu.node"
   ],
   "license": "MIT",
   "engines": {

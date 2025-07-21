@@ -1,5 +1,5 @@
 {
-  "name": "napi-pnpm-linux-arm64-gnu",
+  "name": "napi-starter-linux-arm64-gnu",
   "version": "0.0.0",
   "os": [
     "linux"
@@ -7,9 +7,9 @@
   "cpu": [
     "arm64"
   ],
-  "main": "napi-pnpm.linux-arm64-gnu.node",
+  "main": "napi-starter.linux-arm64-gnu.node",
   "files": [
-    "napi-pnpm.linux-arm64-gnu.node"
+    "napi-starter.linux-arm64-gnu.node"
   ],
   "license": "MIT",
   "engines": {

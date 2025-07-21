@@ -1,5 +1,5 @@
 {
-  "name": "napi-pnpm-freebsd-x64",
+  "name": "napi-starter-freebsd-x64",
   "version": "0.0.0",
   "os": [
     "freebsd"
@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "napi-pnpm.freebsd-x64.node",
+  "main": "napi-starter.freebsd-x64.node",
   "files": [
-    "napi-pnpm.freebsd-x64.node"
+    "napi-starter.freebsd-x64.node"
   ],
   "license": "MIT",
   "engines": {
